@@ -1,2 +1,2 @@
 # surface-crack-detection
-Detecting cracks in wall surface
+Understanding basics of Deep learning
